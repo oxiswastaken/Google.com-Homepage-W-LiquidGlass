@@ -1,0 +1,1 @@
+A tribute to the iconic Google.com homepage, reimagined in Apple’s iOS 26-inspired LiquidGlass effect. Built with pure HTML and CSS—no JavaScript. Clean, responsive, and aesthetic. A fusion of classic web design and modern glassmorphism, perfect for showcasing frontend finesse.
